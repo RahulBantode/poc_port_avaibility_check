@@ -1,0 +1,14 @@
+{
+  "name": "poc_port_avaibility_check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Bantode",
+  "license": "ISC",
+  "dependencies": {
+    "get-port": "^7.0.0"
+  }
+}
